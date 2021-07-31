@@ -1,0 +1,25 @@
+/*
+Theme Name: Custom Theme
+Author: Dan Adams
+*/
+
+body {
+  background: #eee;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  background: #fff;
+  width: 100%;
+  height: 100px;
+}
+
+.navigation {
+  display: flex;
+  list-style-type: none;
+}
+
+.navigation li {
+  margin-right: 16px;
+}
